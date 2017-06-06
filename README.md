@@ -3,7 +3,7 @@
 
 **Instructor**: [Jyh-Ming Lien](https://cs.gmu.edu/~jmlien), jmlien@cs.gmu.edu, Office: 4442, Engineering Building, Office Hours: Thursday 4:15-5:15 pm 
 
-**TA**: Indranil Banerjee, ibanerje@masonlive.gmu.edu, Office: TA office, 
+**TA**: Indranil Banerjee, ibanerje@masonlive.gmu.edu, Office: ENGR 5321, Office Hours: 4:30 pm to 5:30 on Tuesdays and 12noon - 1 pm on Thursdays.
 
 **Time**: 1:30 pm - 4:10 pm	Tuesdays and Thursdays	
 
