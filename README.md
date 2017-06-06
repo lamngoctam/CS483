@@ -2,8 +2,11 @@
 # CS483 Analysis of Algorithms (Summer 2017)
 
 **Instructor**: [Jyh-Ming Lien](https://cs.gmu.edu/~jmlien), jmlien@cs.gmu.edu, Office: 4442, Engineering Building, Office Hours: Thursday 4:15-5:15 pm 
+
 **TA**: Indranil Banerjee, ibanerje@masonlive.gmu.edu, Office: TA office, 
+
 **Time**: 1:30 pm - 4:10 pm	Tuesdays and Thursdays	
+
 **Location**: Innovation Hall 208
 
 **Prerequisites**: CS 310 (minimum grade of C), CS 330 (minimum grade of C), and MATH 125 (minimum grade of C).
