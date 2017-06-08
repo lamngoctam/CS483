@@ -18,7 +18,7 @@ Algorithm Design, by Jon Kleinberg and Eva Tardos, Addison Wesley (2006).
 - June 06 Chapter 1 Intro
 - June 08 Chapter 2 Basics of Algorithm Analysis
 - June 13 Chapter 3 Graphs
-- June 15 Chapter 4 Creedy algorithms 
+- June 15 Chapter 4 Greedy algorithms 
 - June 20 Review  
 - June 22 Midterm
 - June 27 Chapter 5 Divide-n-conquer
