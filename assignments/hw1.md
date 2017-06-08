@@ -1,0 +1,7 @@
+# Homework 1
+
+## Due: June 15, 2017 before class starts
+
+## What to submit:
+1. Exercises from textbook: 1.5, 1.7, 2.2, 2.4, 2.6
+2. The in-class practice problems that are not discussed. (Will be detailed later)
