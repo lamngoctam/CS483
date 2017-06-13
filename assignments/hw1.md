@@ -4,7 +4,7 @@
 
 ## What to submit:
 1. Exercises from textbook: 1.5, 1.7, 2.2, 2.4, 2.6
-2. The in-class practice problems that are not discussed. (Will be detailed later)
+2. In-class practice problems that are not discussed: [practice02-bigO-remaining-assignments.pdf](./practice02-bigO-remaining-assignments.pdf)
 
 ## How to submit: 
 
