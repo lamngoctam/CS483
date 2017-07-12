@@ -7,6 +7,7 @@
 2. Finish the table in page 18 of https://github.com/jmlien/CS483/blob/master/notes/lecture06-DP.pdf
   - the value in each cell is edit distance
 3. ~~Show steps in computing Bellman-Ford algoritm on the graph at the bottom of page 19~~ **We will do this in class next week.**
+4. Finish the table in page 15 Floyd’s Algorithm using the give graph. (Assigned July 12th)
 
 ## How to submit:
 Please type up your answers (latex is preferred) or make sure that you wirte neatly so your TA can read your answers easily.
