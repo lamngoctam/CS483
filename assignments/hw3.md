@@ -1,6 +1,6 @@
 # Homework 3
 
-## Due: July 06, 2017 before class starts
+## Due: ~~July 06~~ July 13, 2017 before class starts
 
 ## What to submit:
 1. Exercises from textbook: 5.3, 5.5, 6.5, 6.24
